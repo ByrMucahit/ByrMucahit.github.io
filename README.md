@@ -19,6 +19,39 @@ Machine Learning, Data Science, Computer Vision. I love data and working with da
 3. **Detection Of Cat and Dog**
 4. **Cell Broadcast Bench Test**
 5. **Enterpreuner For providing usable NFT**
+6. **Sign Language**
+7. **Aybekler Desktop App**
+8. **HEPTAKAS**
+9. **Estimate Game**
+
+## Essay (Coming Soon)
+1. **CNN**
+2. **RNN**
+3. **GAN**
+4. **YOLO**
+5. **Uzaktan Staj**
+6. **Konyada Eğitim**
+
+## Hobbies (Coming Soon)
+1. More Reading
+2. Walking
+3. Researching and Learning
+4. Travelling
+5. Series And Film (Lists)
+6. Football and Basketball
+
+## Plan (Coming Soon)
+1. **Mezuniyet Öncesi Firma araştırması**
+2. **Öğrendiklerimi Kommunity e anlatma**
+3. **Daha fazla film ve dizi**
+4. **Daha fazla kitap okuma**
+5. **Yüksek Lisans için çalışmalar**
+
+İletişim:
+Tel: (+90) 543 544 61 58
+E-mail: m.mucahitbayar@gmail.com
+Github:[ByrMucahit](https://github.com/ByrMucahit) 
+medium:[M Mucahitbayar](https://medium.com/@m.mucahitbayar)
 
 ```markdown
 Syntax highlighted code block
