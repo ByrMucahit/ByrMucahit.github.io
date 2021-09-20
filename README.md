@@ -47,7 +47,7 @@ Machine Learning, Data Science, Computer Vision. I love data and working with da
 4. **Daha fazla kitap okuma**
 5. **Yüksek Lisans için çalışmalar**
 
-İletişim:
+## Communicate:
 Tel: (+90) 543 544 61 58
 E-mail: m.mucahitbayar@gmail.com
 Github:[ByrMucahit](https://github.com/ByrMucahit) 
