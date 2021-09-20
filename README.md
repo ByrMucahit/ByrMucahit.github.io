@@ -10,10 +10,14 @@ First of all, look at those What I'll tell;
 5. Plan
 
 ## Me
-My full name is Muhammet Mücahit BAYAR, you call me "Mucahit". My Department is Computer Science at Konya Technical University. I'm a senior :D.
-### Markdown
+My full name is Muhammet Mücahit BAYAR, you call me "Mucahit". My Department is Computer Science at Konya Technical University. I'm a senior :D.I'm interested in AI,
+Machine Learning, Data Science, Computer Vision. I love data and working with data. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Projects
+###1. Detection of Mask and COVID-19 Using Deep Learning 
+###2. Recommendation Of Book
+###3. Detection Of Cat and Dog
+###4. Cell Broadcast Bench Test
 
 ```markdown
 Syntax highlighted code block
