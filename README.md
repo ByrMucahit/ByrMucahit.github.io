@@ -48,10 +48,10 @@ Machine Learning, Data Science, Computer Vision. I love data and working with da
 5. **Yüksek Lisans için çalışmalar**
 
 ## Communicate:
-Tel: (+90) 543 544 61 58
-E-mail: m.mucahitbayar@gmail.com
-Github:[ByrMucahit](https://github.com/ByrMucahit) 
-medium:[M Mucahitbayar](https://medium.com/@m.mucahitbayar)
+*Tel: (+90) 543 544 61 58
+*E-mail: m.mucahitbayar@gmail.com
+*Github:[ByrMucahit](https://github.com/ByrMucahit) 
+*medium:[M Mucahitbayar](https://medium.com/@m.mucahitbayar)
 
 ```markdown
 Syntax highlighted code block
