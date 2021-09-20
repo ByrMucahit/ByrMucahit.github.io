@@ -14,10 +14,10 @@ My full name is Muhammet Mücahit BAYAR, you call me "Mucahit". My Department is
 Machine Learning, Data Science, Computer Vision. I love data and working with data. 
 
 ## Projects
-1. Detection of Mask and COVID-19 Using Deep Learning 
-2. Recommendation Of Book
-3. Detection Of Cat and Dog
-4. Cell Broadcast Bench Test
+1. ###Detection of Mask and COVID-19 Using Deep Learning 
+2. ###Recommendation Of Book
+3. ###Detection Of Cat and Dog
+4. ###Cell Broadcast Bench Test
 
 ```markdown
 Syntax highlighted code block
