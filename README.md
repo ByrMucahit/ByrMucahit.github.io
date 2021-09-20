@@ -1,6 +1,7 @@
 ## Welcome to Mucahit's Pages
 
 You can use the [editor on GitHub](https://github.com/ByrMucahit/ByrMucahit.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Hi,guys. If you're reading this text,this means you interaction with me, and I'm excited to telling you something about me. Let's get started.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
