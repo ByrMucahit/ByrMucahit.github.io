@@ -15,9 +15,10 @@ Machine Learning, Data Science, Computer Vision. I love data and working with da
 
 ## Projects
 1. **Detection of Mask and COVID-19 Using Deep Learning** 
-2. ###Recommendation Of Book
-3. ###Detection Of Cat and Dog
-4. ###Cell Broadcast Bench Test
+2. **Recommendation Of Book**
+3. **Detection Of Cat and Dog**
+4. **Cell Broadcast Bench Test**
+5. **Enterpreuner For providing usable NFT**
 
 ```markdown
 Syntax highlighted code block
