@@ -10,6 +10,7 @@ First of all, look at those What I'll tell;
 5. Plan
 
 ## Me
+My full name is Muhammet Mücahit BAYAR, you call me "Mucahit". My Department is Computer Science at Konya Technical University. I'm a senior :D.
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
